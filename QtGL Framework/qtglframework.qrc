@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/QtGLFramework">
-        <file>Resources/20130709023105402_easyicon_net_256.png</file>
-        <file>Resources/20130709023204431_easyicon_net_256.png</file>
-        <file>Resources/20130710010820632_easyicon_net_256.png</file>
-    </qresource>
-</RCC>
